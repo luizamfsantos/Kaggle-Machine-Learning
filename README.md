@@ -18,7 +18,8 @@ Kaggle's Introduction to Machine Learning learn path is a great starting point f
 This repository contains important concepts and solutions to exercise problems covered in the Introduction to Machine Learning course by Kaggle. Each notebook corresponds to a specific topic or exercise:
 
 - [Exercise: Data Exploration](exercise-explore-your-data.ipynb)
-- [Exercise: Simple Machine Learning Model](exercise-your-first-machine-learning-model.ipynb)
+- [Exercise: Training ML Model](exercise-your-first-machine-learning-model.ipynb)
+- [Exercise: ML Model Validation](exercise-model-validation.ipynb)
 
 Feel free to explore the notebooks and solutions to gain insights into the practical implementation of the concepts covered in the course.
 
