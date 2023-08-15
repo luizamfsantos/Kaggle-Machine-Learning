@@ -21,6 +21,7 @@ This repository contains important concepts and solutions to exercise problems c
 - [Exercise: Training ML Model](exercise-your-first-machine-learning-model.ipynb)
 - [Exercise: ML Model Validation](exercise-model-validation.ipynb)
 - [Exercise: Underfitting or Overfitting/Tree-based model/ Comparing Different Tree Sizes](exercise-underfitting-and-overfitting.ipynb)
+- [Exercise: Random Forest Model Training and Validation](exercise-random-forests.ipynb)
 
 Feel free to explore the notebooks and solutions to gain insights into the practical implementation of the concepts covered in the course.
 
