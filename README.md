@@ -40,6 +40,9 @@ cd Kaggle-Intro-to-Machine-Learning
 ```
 
 3. Open the Jupyter notebooks using your preferred environment (Jupyter Notebook, JupyterLab, Google Colab, etc.).
+## Certificate
+![Certificate](https://github.com/luizamfsantos/Kaggle-Machine-Learning/blob/6867a928e73af15c5a35bcd35ee33403d020bbc5/Luiza%20M%20Santos%20-%20Intro%20to%20Machine%20Learning.png)
+
 
 ## Acknowledgments
 
