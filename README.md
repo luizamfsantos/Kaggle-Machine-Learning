@@ -3,7 +3,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle Logo" width="250">](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 
-This repository documents my journey through Kaggle's Introduction to Machine Learning learn path. The learn path provides a comprehensive introduction to the fundamentals of machine learning, covering topics from data preprocessing to building and evaluating machine learning models.
+This repository documents my journey through Kaggle's Introduction to Machine Learning learn path. The learn path provides a introduction to the fundamentals of machine learning, covering topics from data preprocessing to building and evaluating machine learning models.
 
 ## About Kaggle's Introduction to Machine Learning
 
