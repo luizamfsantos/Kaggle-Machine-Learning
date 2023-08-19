@@ -61,6 +61,11 @@ cd Kaggle-Machine-Learning
 ![Certificate](https://github.com/luizamfsantos/Kaggle-Machine-Learning/blob/6867a928e73af15c5a35bcd35ee33403d020bbc5/Luiza%20M%20Santos%20-%20Intro%20to%20Machine%20Learning.png)
 
 
+## Resources 
+For more information about Kaggle's **Introduction to Machine Learning** learn path, visit the [official Kaggle course page](https://www.kaggle.com/learn/intro-to-machine-learning).
+
+For more information about Kaggle's **Intermediate Machine Learning learn** path, visit the [office Kaggle course page](https://www.kaggle.com/learn/intermediate-machine-learning).
+
 ## Acknowledgments
 
 This repository is a part of my learning journey in machine learning and is inspired by the learning courses offered by Kaggle. I'm grateful to the Kaggle community for providing such valuable resources to learn and grow in the field of machine learning.
@@ -68,11 +73,6 @@ This repository is a part of my learning journey in machine learning and is insp
 Made with ❤️ by [Luiza Santos](https://github.com/luizamfsantos)
 
 ---
-
-## Resources 
-For more information about Kaggle's **Introduction to Machine Learning** learn path, visit the [official Kaggle course page](https://www.kaggle.com/learn/intro-to-machine-learning).
-
-For more information about Kaggle's **Intermediate Machine Learning learn** path, visit the [office Kaggle course page](https://www.kaggle.com/learn/intermediate-machine-learning).
 
 
 [![Kaggle Logo](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/learn/intro-to-machine-learning)
