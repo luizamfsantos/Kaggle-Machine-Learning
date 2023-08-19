@@ -3,7 +3,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle Logo" width="250">](https://www.kaggle.com/learn/intro-to-machine-learning)
 
 
-This repository documents my journey through Kaggle's Machine Learning learning paths. The first learning path provides an introduction to the fundamentals of machine learning, covering topics from data preprocessing to building and evaluating machine learning models. The next is a continuation focusing on more intermediate-level skills in Machine Learning, covering topics from handling missing data to data leakage and more. 
+This repository documents my journey through Kaggle's Machine Learning paths. The first learning path provides an introduction to the fundamentals of machine learning, covering topics from data preprocessing to building and evaluating machine learning models. The next is a continuation focusing on more intermediate-level skills in Machine Learning, covering topics from handling missing data to data leakage and more. 
 
 ## About Kaggle's Introduction to Machine Learning
 
