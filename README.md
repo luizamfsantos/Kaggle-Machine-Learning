@@ -38,7 +38,7 @@ This repository contains important concepts and solutions to exercise problems c
 
 
 **Intermediate Machine Learning:**
-- [Exercise: Introduction](exercise-intermediate-introduction.ipynb)
+- [Exercise: Review from Intro to Machine Learning](exercise-intermediate-introduction.ipynb)
 - [Exercise: Handling Null Values](exercise-missing-values.ipynb)
 
 Feel free to explore the notebooks and solutions to gain insights into the practical implementation of the concepts covered in the course.
