@@ -40,6 +40,7 @@ This repository contains important concepts and solutions to exercise problems c
 **Intermediate Machine Learning:**
 - [Exercise: Review from Intro to Machine Learning](exercise-intermediate-introduction.ipynb)
 - [Exercise: Handling Null Values](exercise-missing-values.ipynb)
+- [Exercise: Handling Categorical Data with OneHotEncoder](exercise-categorical-variables.ipynb)
 
 Feel free to explore the notebooks and solutions to gain insights into the practical implementation of the concepts covered in the course.
 
